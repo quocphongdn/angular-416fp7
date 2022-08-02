@@ -9,7 +9,7 @@ import { HttpClient } from '@angular/common/http';
     `
         .dropdown, kendo-multiselect { 
             width: 450px;
-        },
+        }
         .block {
             margin-top: 45px;
         }
